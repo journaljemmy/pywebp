@@ -22,3 +22,6 @@ core
 /conan_output/
 *.so
 /.envrc
+
+# Documentation ignores
+/docs/source/_build
